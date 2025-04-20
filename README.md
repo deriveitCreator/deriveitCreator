@@ -5,6 +5,7 @@ This account is mainly to manage my second website (deriveit.net), but there are
 ## Projects
 - Main Website: https://github.com/deriveitCreator/deriveit
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
+- LAN streaming: https://github.com/deriveitCreator/localStream
 - Main Website (Old version): https://github.com/deriveitCreator/deriveitCreator.github.io
 - Chat App (no longer used): https://github.com/deriveitCreator/chat_app
 
