@@ -4,6 +4,7 @@ This account is mainly to manage my second website (deriveit.net), but there are
 
 ## Projects
 - Main Website: https://github.com/deriveitCreator/deriveit
+- SvelteGames: https://github.com/deriveitCreator/svelteGames
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
 - LAN streaming: https://github.com/deriveitCreator/localStream
 - Raylib games made in C: https://github.com/deriveitCreator/raylibStuffInC
