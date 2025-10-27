@@ -7,7 +7,6 @@ This account is mainly to manage my second website (deriveit.net), but there are
 - SvelteGames: https://github.com/deriveitCreator/svelteGames
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
 - LAN streaming: https://github.com/deriveitCreator/localStream
-- Raylib games made in C: https://github.com/deriveitCreator/raylibStuffInC
 - Main Website (Old version): https://github.com/deriveitCreator/deriveitCreator.github.io
 - Chat App (no longer used): https://github.com/deriveitCreator/chat_app
 
