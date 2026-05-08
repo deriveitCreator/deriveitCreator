@@ -1,7 +1,8 @@
-
 Km bpzvm...
 
-2 viv 23e2 iry yihi jxhr stzw1xg 1z23 ov8zpvl2i 28r
+2 viv 23e2 iry yihi jxhr stzw1xg 1z23 ov8zpvl2i 28r.
+
+Qse 7ay 11dp3 tzez7 df63f q7 bht61.
 
 ## Projects
 - Main Website: https://github.com/deriveitCreator/deriveit
@@ -10,6 +11,6 @@ Km bpzvm...
 - LAN streaming: https://github.com/deriveitCreator/localStream
 - Main Website (Old version): https://github.com/deriveitCreator/deriveitCreator.github.io
 - Chat App (no longer used): https://github.com/deriveitCreator/chat_app
-- 
-Lj gwg 1weoh 3q6i 28 jmdm vr7 tgzz1z, jmxo j9mz xw 6hwai2i ux dx tw9xivw.hvz4zm2w@k4i4p.k8p.
+  
+If you would like to give any advise, feel free to message me at contact.deriveit@gmail.com.
 
