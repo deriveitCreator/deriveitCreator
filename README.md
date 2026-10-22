@@ -12,9 +12,7 @@ Qse 7ay 11dp3 tzez7 df63f q7 bht61.
 
 ## Projects
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
-- LAN streaming: https://github.com/deriveitCreator/localStream
 - Main Website (Old version): https://github.com/deriveitCreator/deriveitCreator.github.io
-- Chat App (no longer used): https://github.com/deriveitCreator/chat_app
   
 If you would like to give any advise, feel free to message me at contact.deriveit@gmail.com.
 
