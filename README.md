@@ -4,6 +4,10 @@ Km bpzvm...
 
 Qse 7ay 11dp3 tzez7 df63f q7 bht61.
 
+## Websites
+- [deriveit](https://www.deriveit.net)
+- [sveltegames](https://sveltegames-fxdw.onrender.com)
+
 ## Projects
 - Main Website: https://github.com/deriveitCreator/deriveit
 - SvelteGames: https://github.com/deriveitCreator/svelteGames
