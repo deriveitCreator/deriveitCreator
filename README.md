@@ -10,7 +10,7 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 
 [<img src="https://sveltegames-fxdw.onrender.com/favicon98x98.png" alt="" width="100" height="100" style="image-rendering: pixelated;"/>sveltegames](https://sveltegames-fxdw.onrender.com)
 
-## Projects
+## Apps
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
   
 If you would like to give any advise, feel free to message me at contact.deriveit@gmail.com.
