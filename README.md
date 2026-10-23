@@ -8,7 +8,7 @@ Qse 7ay 11dp3 tzez7 df63f q7 bht61.
 [<img src="https://www.deriveit.net/favicon.ico" alt="" width="100" height="100"/>deriveit](https://www.deriveit.net)
 
 
-[<img src="https://sveltegames-fxdw.onrender.com/favicon.png" alt="" width="100" height="100" style="image-rendering: pixelated;"/>sveltegames](https://sveltegames-fxdw.onrender.com)
+[<img src="https://sveltegames-fxdw.onrender.com/favicon98x98.png" alt="" width="100" height="100" style="image-rendering: pixelated;"/>sveltegames](https://sveltegames-fxdw.onrender.com)
 
 ## Projects
 - Desktop Buddy: https://github.com/deriveitCreator/desktopBuddy
