@@ -5,14 +5,22 @@ Km bpzvm...
 R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 
 ## Websites
-[<img src="https://www.deriveit.net/favicon.ico" alt="" width="100" height="100"/>deriveit](https://www.deriveit.net)
-
-
-[<img src="https://sveltegames-fxdw.onrender.com/favicon98x98.png" alt="" width="100" height="100" style="image-rendering: pixelated;"/>SimpleBits](https://sveltegames-fxdw.onrender.com)
+<a href="https://www.deriveit.net">
+  <img src="https://www.deriveit.net/favicon.ico" alt="" height="100"/><br/>deriveit
+</a>
+<br/>
+<br/>
+<a href="https://simplebits.onrender.com">
+  <img src="https://sveltegames-fxdw.onrender.com/favicon98x98.png" alt="" height="100" style="image-rendering: pixelated;"/> <br/>SimpleBits
+</a>
 
 ## Apps
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bumblebee_white_eyes_clipart.svg" alt="" height="100"/>Desktop Buddy](https://github.com/deriveitCreator/desktopBuddy)
 
+<a href="https://github.com/deriveitCreator/desktopBuddy">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bumblebee_white_eyes_clipart.svg" alt="" height="100" style="image-rendering: pixelated;"/><br/>Desktop Buddy
+</a>
+
+<br/>
 <br/>
 <br/>
 
