@@ -11,7 +11,7 @@ R65 ks3 cke3t 7iibq eswgx ui sv6rzg2c.
 <br/>
 <br/>
 <a href="https://siliconbits.onrender.com">
-  <img src="https://sveltegames-fxdw.onrender.com/favicon98x98.png" alt="" height="100" style="image-rendering: pixelated;"/> <br/>SiliconBits
+  <img src="https://siliconbits.onrender.com/favicon98x98.png" alt="" height="100" style="image-rendering: pixelated;"/><br/>SiliconBits
 </a>
 
 ## Apps
